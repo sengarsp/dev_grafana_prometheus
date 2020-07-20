@@ -102,6 +102,5 @@ Here U can see our pod has been deleted, and after that it starts new pod this i
  # Author 
    Shyamendra Pratap Singh Sengar
  
- ![Screenshot (372)](https://user-images.githubusercontent.com/55234454/87908433-fea56480-ca83-11ea-84ca-f24ed16ad22d.png)
 
 
