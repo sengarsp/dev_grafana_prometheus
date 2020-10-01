@@ -1,7 +1,7 @@
 # Deploying Granafa & Prometheus Over Kubernetes (Persistent Volume)
-!!!! Hello Everyone !!!!
+!!! Hello Everyone !!!
 
-Here I am sharing my small project (task ) .which is Deploying Grafana & prometheus Over Kubernetes (Persistent Volume ).
+Here I am sharing my small project (task) which is Deploying Grafana & prometheus Over Kubernetes (Persistent Volume).
 # Problem :- 
 ntegrate Prometheus and Grafana and perform in following way:
 
